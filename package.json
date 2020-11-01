@@ -20,7 +20,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "homepage": "https://myusername.github.io/myemployeedirectory"
+    "homepage": "https://mohamedsalihdev.github.io/myemployeedirectory"
   },
   "eslintConfig": {
     "extends": [
